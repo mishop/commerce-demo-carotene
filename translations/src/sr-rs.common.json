@@ -1,0 +1,18 @@
+[
+  {
+    "id": "error.common.headline",
+    "translation": "Error occured"
+  },
+  {
+    "id": "error.homeButton",
+    "translation": "Nazad na početnu stranicu"
+  },
+  {
+    "id": "error.404.headline",
+    "translation": "Greška 404"
+  },
+  {
+    "id": "error.503.headline",
+    "translation": "Greška 503"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "delivery",
+    "translation": "Dostava na kućnu adresu"
+  },
+  {
+    "id": "pickup_store",
+    "translation": "Preuzimanje u radnji"
+  },
+  {
+    "id": "cart.group.title",
+    "translation": "Proizvodi"
+  },
+  {
+    "id": "cart.column.quantity",
+    "translation": "Količina"
+  },
+  {
+    "id": "cart.column.price",
+    "translation": "Cena"
+  },
+  {
+    "id": "cart.column.sum",
+    "translation": "Ukupno"
+  },
+  {
+    "id": "cart.item.detail",
+    "translation": "Šifra proizvoda: {{ .SKU }}"
+  },
+  {
+    "id": "cart.item.remove",
+    "translation": "Ukloni proizvod"
+  },
+  {
+    "id": "cart.loyalty.label",
+    "translation": "Heathrow Reward bodovi"
+  },
+  {
+    "id": "cart.total.label",
+    "translation": "Ukupno"
+  },
+  {
+    "id": "cart.button.reserveAndCollect",
+    "translation": "Rezerviši i Preuzmi"
+  },
+  {
+    "id": "cart.button.continueShopping",
+    "translation": "Nastavi sa kupovinom"
+  },
+  {
+    "id": "miniCart.removeItem",
+    "translation": "Ukloni {{.title}}"
+  },
+  {
+    "id": "miniCart.hiddenProducts",
+    "translation": "{{.qty}} još proizvoda"
+  },
+  {
+    "id": "miniCart.hiddenProduct",
+    "translation": "Još 1 proizvod"
+  },
+  {
+    "id": "miniCart.total",
+    "translation": "Ukupno: {{.total}}"
+  },
+  {
+    "id": "miniCart.empty",
+    "translation": "Vaša korpa je prazna"
+  },
+  {
+    "id": "miniCart.buttonCartView",
+    "translation": "Torba za kupovinu"
+  },
+  {
+    "id": "miniCart.buttonReserveAndCollect",
+    "translation": "Rezerviši & Preuzmi"
+  },
+  {
+    "id": "cart.reserveInfo.noPayment",
+    "translation": "Nema plaćanja i niste obavezni da kupite rezervisane proizvode ako promenite mišljenje."
+  },
+  {
+    "id": "cart.reserveInfo.collectedAtShop",
+    "translation": "Proizvodi moraju biti plaćeni i preuzeti u radnji u kojoj ste ih kupili na dan putovanja, pre leta."
+  },
+  {
+    "id": "cart.reserveInfo.individualStorePolicy",
+    "translation": "Rezervacije će biti potvrđene u skladu sa politikom pojedinačne radnje, koju će naš tim za korisničku podršku proveriti za vas."
+  }
+]

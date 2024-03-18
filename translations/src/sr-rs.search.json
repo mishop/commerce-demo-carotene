@@ -1,0 +1,122 @@
+[
+  {
+    "id":"facet.header.brandCode",
+    "translation":"Brend"
+  },
+  {
+    "id":"search.result.titleWithQuery",
+    "translation":"Rezultati pretrage za \"{{ .query }}\""
+  },
+  {
+    "id":"search.result.title",
+    "translation":"Rezultati pretrage"
+  },
+  {
+    "id":"search.noresult.titleWithQuery",
+    "translation":"Nema rezultata za \"{{ .query }}\""
+  },
+  {
+    "id":"search.noresult.widgetHeadline",
+    "translation":"Trendovi rezultata"
+  },
+  {
+    "id":"search.suggestion.title",
+    "translation":"Evo nekih rezultata za \"{{ .query }}\""
+  },
+  {
+    "id":"search.found.brands",
+    "translation":"Pronađeno u Brendovima"
+  },
+  {
+    "id":"search.found.products",
+    "translation":"Pronađeno u Proizvodima ({{ .numResults }})"
+  },
+  {
+    "id":"search.found.other",
+    "translation":"Ostali rezultati (%s)"
+  },
+  {
+    "id":"search.footer.headline",
+    "translation":"Ne možete naći ono što želite?"
+  },
+  {
+    "id":"search.footer.description",
+    "translation":"Naš tim za kupovinu je dostupan da odgovori na sva pitanja koja imate o brendovima, proizvodima ili uslugama na Orange Unit."
+  },
+  {
+    "id":"search.footer.callNow",
+    "translation":"Pozovite sada +381 (0)65 3333 093"
+  },
+  {
+    "id":"searchNoResultsHeader.title",
+    "translation":"Nismo pronašli ni jedan rezultat <br>koji odgovara vašoj pretrazi"
+  },
+  {
+    "id":"searchNoResultsHeader.text",
+    "translation":"Molimo vas proverite da li ima grešaka u kucanju ili proširite pretragu koristeći manje ključne reči.<br>Alternativno, pregledajte naše proizvode izaberite kategoriju iz menija."
+  },
+  {
+    "id":"searchNoResultsHeader.buttonLabel",
+    "translation":"Ponovite pretragu"
+  },
+  {
+    "id": "search.live.label",
+    "translation": "Pretraga"
+  },
+  {
+    "id": "search.live.input.placeholder",
+    "translation": "Pretraga"
+  },
+  {
+    "id": "search.live.input.aria",
+    "translation": "Pretraži sajt"
+  },
+  {
+    "id": "search.live.submit.aria",
+    "translation": "Podnesi pretragu"
+  },
+  {
+    "id": "search.live.showAll",
+    "translation": "Prikaži sve rezultate"
+  },
+  {
+    "id": "search.live.popular",
+    "translation": "Popularne pretrage"
+  },
+  {
+    "id": "search.live.products",
+    "translation": "Pronađeni proizvodi"
+  },
+  {
+    "id": "search.live.results",
+    "translation": "Rezultati pretrage"
+  },
+  {
+    "id": "search.live.brands",
+    "translation": "Brendovi"
+  },
+  {
+    "id": "search.live.retailers",
+    "translation": "Prodavci"
+  },
+  {
+    "id": "search.live.contentPages",
+    "translation": "Stranice sa sadržajem"
+  },
+  {
+    "id": "search.live.inRetailers",
+    "translation": "u prodavcima"
+  },
+  {
+    "id": "search.live.reset",
+    "translation": "Resetuj pretragu"
+  },
+  {
+    "id": "search.live.noResults",
+    "translation": "Izvinjavamo se, nema rezultata koji odgovaraju vašoj pretrazi."
+  },
+  {
+    "id": "search.live.totalResults",
+    "translation": "Ukupno rezultata"
+  }
+]

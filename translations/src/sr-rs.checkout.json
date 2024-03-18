@@ -1,0 +1,30 @@
+[
+  {
+    "id": "checkout.success_message1",
+    "translation": "Vaša porudžbina je primljena. Broj vaše porudžbine je: {{.OrderId}}"
+  },
+  {
+    "id": "checkout.success_message2",
+    "translation": "Potvrda će biti poslata na email adresu {{.Email}}."
+  },
+  {
+    "id": "checkout.cart_item_error_hint",
+    "translation": "U vašoj korpi postoje nevažeći proizvodi. Molimo vas proverite ispod i rešite problem."
+  },
+  {
+    "id": "checkout.back_to_cart",
+    "translation": "Nazad na korpu"
+  },
+  {
+    "id": "checkout.no_items_in_cart",
+    "translation": "Nema proizvoda u vašoj korpi"
+  },
+  {
+    "id": "checkout.legalConfirmation.termsAndConditions",
+    "translation": "Označite ovde da ste pročitali i saglasni sa <a href=\"{{.PrivacyNoticeUrl}}\" target=\"blank\">politikom privatnosti</a> i <a href=\"{{.TermsAndConditionsUrl}}\" target=\"blank\">uslovima korišćenja</a> Orange Unit-a."
+  },
+  {
+    "id": "checkout.error.terms_and_conditions_required",
+    "translation": "Molimo vas da prihvatite uslove korišćenja."
+  }
+]

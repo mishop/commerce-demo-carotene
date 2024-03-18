@@ -1,0 +1,18 @@
+[
+  {
+    "id": "product.attribute.__group_packageSizes",
+    "translation": "Veličina paketa"
+  },
+  {
+    "id": "product.attribute.washingInstructions",
+    "translation": "Uputstvo za pranje"
+  },
+  {
+    "id": "product.attribute.baseColor",
+    "translation": "Osnovna boja"
+  },
+  {
+    "id": "product.attribute.manufacturerColor",
+    "translation": "Boja proizvođača"
+  }
+]
