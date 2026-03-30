@@ -26,7 +26,7 @@ frontend: frontend-build
 	bash -c 'cd frontend && npm run dev'
 
 frontend-build:
-	bash -c 'cd frontend && npm ci && npm run build'
+	bash -c 'cd frontend && npx flamingo-carotene build'
 
 translation:
 	./preparetranslations.sh
