@@ -1,0 +1,33 @@
+# Dependencies
+vendor/
+
+# Generated files
+graphql/generated.go
+
+# Temporary / build files
+tmp/
+temp/
+*.tmp
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config with secrets
+config/local*.yml
+config/*_local.yml
+config/secrets*.yml
+config/config_dev.yml
+config/config_local.yml
+
+# Binary
+*.exe
+*.exe~
+commerce-demo-carotene
