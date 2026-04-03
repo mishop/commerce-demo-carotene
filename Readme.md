@@ -1,12 +1,19 @@
-# Official Commerce Flamingo Demo
+# Updated Commerce Flamingo Demo
 
-Watch online: https://www.orangeunit.rs/graphql
+Watch online: https://www.orangeunit.rs/
 
 Or try the powerful Flamingo-Commerce graphql console: https://www.orangeunit.rs/graphql-console
 
 API v1: https://www.orangeunit.rs/api/swagger.json 
 
 ## What's inside:
+Modern e-commerce demo shop built with **Flamingo Framework** + **Flamingo Commerce**.
+
+This is an updated and improved version of the official Flamingo Commerce demo shop with:
+- OpenTelemetry support (Prometheus + Grafana ready)
+- Fixed GraphQL
+- Better configuration
+- Support for multiple languages ​​(en/de)
 
 The demo shop comes with:
 
